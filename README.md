@@ -14,7 +14,7 @@ client-side form validation."
 
 ## Tech Stack
 
-**Client:** HTML, CSS
+**Client:** HTML, CSS, JavaScript
 
 ## Authors
 
