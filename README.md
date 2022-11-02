@@ -23,7 +23,7 @@ client-side form validation."
 
 ## Acknowledgements
 
-- [Single Price Grid Component](https://www.frontendmentor.io/challenges/ping-single-column-coming-soon-page-5cadd051fec04111f7b848da)
+- [Ping Single Column Page](https://www.frontendmentor.io/challenges/ping-single-column-coming-soon-page-5cadd051fec04111f7b848da)
 
 ## Related
 
